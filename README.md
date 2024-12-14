@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I'm Reece Tredwell, I am a Software Engineer Undergrad, I love working and learning with pretty much anything surrounding the tech world.<br><br>🔭 I’m currently working on a Pokemon battle Simulator in C++, particularly working with JSON in C++.<br>👯 I’m looking to collaborate on anything fun :)<br>🌱 I’m currently learning C++<br>💬 Ask me about my past work experience.
+Hi I'm Reece Tredwell, I am a Software Engineer Undergrad, I love working and learning with pretty much anything surrounding the tech world.<br><br>🔭 I’m currently working on a Pokemon battle Simulator in C++, and an online pantry tracker Application in React native<br>👯 I’m looking to collaborate on anything fun :)<br>🌱 I’m currently learning C++ and React Native <br>💬 Ask me about my past work experience.
 
 
 ## 🌐 Socials:
