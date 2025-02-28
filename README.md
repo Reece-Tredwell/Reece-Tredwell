@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I'm Reece Tredwell, I am a Software Engineer Undergrad, I love working and learning with pretty much anything surrounding the tech world.<br><br>🔭 I’m currently working on a mobile application that acts as a an online pantry tracker in React native<br>👯 I’m looking to collaborate on anything fun and interesting :)<br>🌱 I’m currently learning C++ and React Native <br>💬 Ask me about my past work experience.
+Hi I'm Reece Tredwell, I am a Software Engineer Undergraduate at Macquarie University, Sydney Australia, I love working and learning with almost any much anything surrounding the tech world. How ever I have a soft spot for back-end Web Developement and Mobile Application Development.<br><br>🔭 I’m currently working on a mobile application that acts as a an online pantry tracker in React native, whilst also buidling my online porfotoflio using ReactJS<br>👯 I’m looking to collaborate on anything fun and interesting :)<br>🌱 I’m currently learning ReactJS and React Native <br>💬 Ask me about my past work experience.<br>🔼In the future I want to begin building more IoT products to solve everyday issues in my day to day life.
 
 
 ## 🌐 Socials:
